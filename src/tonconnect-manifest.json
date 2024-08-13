@@ -1,0 +1,8 @@
+{
+    "manifestUrl": "https://ton-connect.github.io/demo-dapp-with-wallet/tonconnect-manifest.json",
+    "url": "https://ton-connect.github.io/demo-dapp-with-wallet/",
+    "name": "test-telegram",
+    "iconUrl": "https://ton.vote/logo.png",  
+    "termsOfUseUrl": "",
+    "privacyPolicyUrl": "" 
+}
